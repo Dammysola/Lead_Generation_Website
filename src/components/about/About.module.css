@@ -1,0 +1,84 @@
+#About_WrapDiv{
+    padding-top: 50px;
+    /* background-color: #b65959; */
+    /* opacity: 30%, #333;
+    background-image: url(../../assets/Sales_img.webp);
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background-color: black;
+    height: 100vh;
+}
+/* #About_WrapDiv ::before{
+    background-color: rgba(26, 25, 25, 0.37);
+} */
+#About_WrapDiv span{
+    color: #6890a2;
+}
+#about_textDiv{
+    height: 200px;
+    text-align: center;
+}
+#About_WrapDiv h5 {
+    font-size: 45px;
+    font-weight: 370;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: Montserrat, serif;
+    height: 0px;
+    letter-spacing: 1px;
+    line-height: 1.42857143;
+}
+#About_WrapDiv b{
+    font-weight: 700;
+}
+#text{
+    width: 75%;
+    margin: 0 auto;
+    font-weight: 100;
+    line-height: 35px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #fff;
+}
+#About_form{
+    background-color: #d1cccc;
+    padding: 30px;
+}
+#formText{
+    word-spacing: 10px;
+}
+#About_formDiv{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+#requestText{
+    font-size: 22px;
+    font-weight: 700;
+    height: 70px;
+}
+#textDiv{
+    width: 425px;
+    line-height: 21px;
+    height: 300px;
+}
+#About_WrapDiv #About_form p{
+    text-align:center ;
+    text-transform: uppercase;
+    font-size: 20px;
+} 
+.inputDiv{
+    display: flex;
+    column-gap: 20px;
+}
+form #div{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+#About_WrapDiv #About_form button{
+    width: 150px;
+    height: 40px;
+    background-color: transparent;
+
+}

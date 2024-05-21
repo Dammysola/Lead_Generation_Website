@@ -1,0 +1,24 @@
+#header_WrapDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 170px;
+    height: 100px;
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    font-weight: 550;
+}
+#header_WrapDiv img{
+    width: 40px;
+    height: 30px;
+}
+#ImgDiv{
+    display: flex;
+    align-items: center;
+}
+#textDiv{
+    display: flex;
+    column-gap: 40px;
+    
+}
